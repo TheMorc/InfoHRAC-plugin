@@ -1,0 +1,8 @@
+name: ZakladnePrikazy
+main: me.morccrafak.infoHRACA.majnka
+author: MorcCrafak
+version: 2.5
+commands:
+   info:
+      description: Pomaha hracovi ukazat Zivoty,atd.
+      usage: /info
